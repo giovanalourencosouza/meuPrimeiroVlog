@@ -11,5 +11,22 @@ body{
     margin: 0px;
     margin-bottom: 100px;
 
+}
+
+header{
+    background-color: gold;
+    background-color: khaki;
+    text-align: center;
+    padding: 20px;
+}
+
+.conteiner{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    width: 100%;
 
 }
